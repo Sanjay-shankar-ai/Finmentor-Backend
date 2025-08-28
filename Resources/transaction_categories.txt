@@ -1,0 +1,8 @@
+Zomato, Swiggy, Dominos, EatSure → food
+Uber, Ola, Rapido → transport
+Amazon, Flipkart → shopping
+Paytm, Google Pay, PhonePe recharge → mobile
+Axis Bank Loan, EMI, HDFC Credit Card → debt
+IRCTC, Indigo, MakeMyTrip → travel
+LIC, HDFC Life, Max Bupa → insurance
+Cash Withdrawal, ATM → cash

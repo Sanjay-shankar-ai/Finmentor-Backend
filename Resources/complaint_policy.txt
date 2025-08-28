@@ -1,0 +1,8 @@
+Complaint Handling Policy:
+1. Customer lodges complaint via app, email, or chatbot.
+2. Complaint is categorized: card issue, fraud, transaction delay, etc.
+3. TAT (Turnaround Time):
+   - Normal queries: 3 working days
+   - Escalated issues: 7 working days
+4. User receives ticket ID and status updates.
+5. If unresolved, escalate to Grievance Officer or Banking Ombudsman.

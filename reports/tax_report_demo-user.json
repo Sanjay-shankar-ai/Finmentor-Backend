@@ -1,0 +1,179 @@
+{
+  "user_id": "demo-user",
+  "financial_year": "2025-26",
+  "regime": "NEW_REGIME_ONLY",
+  "income_heads": {
+    "salary": [
+      {
+        "date": "2025-03-01T00:00:00+00:00",
+        "description": "Salary \u2013 March 2025",
+        "amount": 100000.0
+      },
+      {
+        "date": "2025-02-01T00:00:00+00:00",
+        "description": "Salary \u2013 February 2025",
+        "amount": 100000.0
+      },
+      {
+        "date": "2025-01-01T00:00:00+00:00",
+        "description": "Salary \u2013 January 2025",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-12-01T00:00:00+00:00",
+        "description": "Salary \u2013 December 2024",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-11-01T00:00:00+00:00",
+        "description": "Salary \u2013 November 2024",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-10-01T00:00:00+00:00",
+        "description": "Salary \u2013 October 2024",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-09-01T00:00:00+00:00",
+        "description": "Salary \u2013 September 2024",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-08-01T00:00:00+00:00",
+        "description": "Salary \u2013 August 2024",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-07-01T00:00:00+00:00",
+        "description": "Salary \u2013 July 2024",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-06-01T00:00:00+00:00",
+        "description": "Salary \u2013 June 2024",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-05-01T00:00:00+00:00",
+        "description": "Salary \u2013 May 2024",
+        "amount": 100000.0
+      },
+      {
+        "date": "2024-04-01T00:00:00+00:00",
+        "description": "Salary \u2013 April 2024",
+        "amount": 100000.0
+      }
+    ],
+    "house_property": [
+      {
+        "date": "2025-03-02T00:00:00+00:00",
+        "description": "House rent received \u2013 March 2025",
+        "amount": 16667.0
+      },
+      {
+        "date": "2025-02-02T00:00:00+00:00",
+        "description": "House rent received \u2013 February 2025",
+        "amount": 16667.0
+      },
+      {
+        "date": "2025-01-02T00:00:00+00:00",
+        "description": "House rent received \u2013 January 2025",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-12-02T00:00:00+00:00",
+        "description": "House rent received \u2013 December 2024",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-11-02T00:00:00+00:00",
+        "description": "House rent received \u2013 November 2024",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-10-02T00:00:00+00:00",
+        "description": "House rent received \u2013 October 2024",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-09-02T00:00:00+00:00",
+        "description": "House rent received \u2013 September 2024",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-08-02T00:00:00+00:00",
+        "description": "House rent received \u2013 August 2024",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-07-02T00:00:00+00:00",
+        "description": "House rent received \u2013 July 2024",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-06-02T00:00:00+00:00",
+        "description": "House rent received \u2013 June 2024",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-05-02T00:00:00+00:00",
+        "description": "House rent received \u2013 May 2024",
+        "amount": 16667.0
+      },
+      {
+        "date": "2024-04-02T00:00:00+00:00",
+        "description": "House rent received \u2013 April 2024",
+        "amount": 16667.0
+      }
+    ],
+    "business_profession": [],
+    "capital_gains": [],
+    "other_sources": []
+  },
+  "head_totals": {
+    "salary": 1200000.0,
+    "house_property": 200004.0,
+    "business_profession": 0.0,
+    "capital_gains": 0.0,
+    "other_sources": 0.0
+  },
+  "tax_calculation": {
+    "gross_income": 1400004.0,
+    "standard_deduction": 75000,
+    "taxable_income": 1325004.0,
+    "tax_before_cess": 78750.6,
+    "health_education_cess": 3150.0240000000003,
+    "total_tax_liability": 81900.62400000001,
+    "effective_tax_rate": 5.8500278570632664,
+    "slab_breakdown": [
+      {
+        "range": "\u20b90 - \u20b9400,000",
+        "rate": "0%",
+        "taxable_amount": 400000,
+        "tax_amount": 0.0
+      },
+      {
+        "range": "\u20b9400,000 - \u20b9800,000",
+        "rate": "5%",
+        "taxable_amount": 400000,
+        "tax_amount": 20000.0
+      },
+      {
+        "range": "\u20b9800,000 - \u20b91,200,000",
+        "rate": "10%",
+        "taxable_amount": 400000,
+        "tax_amount": 40000.0
+      },
+      {
+        "range": "\u20b91,200,000 - \u20b91,325,004.0",
+        "rate": "15%",
+        "taxable_amount": 125004.0,
+        "tax_amount": 18750.6
+      }
+    ]
+  },
+  "advance_tax": 81900.62400000001,
+  "tds_deducted": 0.0,
+  "generated_on": "2025-07-16T12:44:20.482983"
+}

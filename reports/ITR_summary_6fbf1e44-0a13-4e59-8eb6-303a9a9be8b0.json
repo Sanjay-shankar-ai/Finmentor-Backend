@@ -1,0 +1,122 @@
+{
+  "user_id": "6fbf1e44-0a13-4e59-8eb6-303a9a9be8b0",
+  "financial_year": "2024-25",
+  "gross_income": 900000.0,
+  "deductions": 225000.0,
+  "standard_deduction": 50000,
+  "taxable_income": 625000.0,
+  "estimated_tax_old_regime": 0,
+  "estimated_tax_new_regime": 17500.0,
+  "selected_regime": "Old",
+  "final_estimated_tax": 0,
+  "tds_paid": 200000.0,
+  "salary_entries": [
+    {
+      "date": "2025-03-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary - March 2025"
+    },
+    {
+      "date": "2025-02-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 February 2025"
+    },
+    {
+      "date": "2025-01-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 January 2025"
+    },
+    {
+      "date": "2024-12-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary - December 2024"
+    },
+    {
+      "date": "2024-11-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 November 2024"
+    },
+    {
+      "date": "2024-10-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 October 2024"
+    },
+    {
+      "date": "2024-09-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 September 2024"
+    },
+    {
+      "date": "2024-08-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 August 2024"
+    },
+    {
+      "date": "2024-07-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 July 2024"
+    },
+    {
+      "date": "2024-06-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 June 2024"
+    },
+    {
+      "date": "2024-05-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 May 2024"
+    },
+    {
+      "date": "2024-04-05T04:30:00+00:00",
+      "amount": 75000.0,
+      "description": "Salary \u2013 April 2024"
+    }
+  ],
+  "investment_entries": [
+    {
+      "date": "2024-07-20T04:30:00+00:00",
+      "amount": 20000.0,
+      "description": "PPF Contribution \u2013 July 2024"
+    },
+    {
+      "date": "2024-07-20T04:30:00+00:00",
+      "amount": 20000.0,
+      "description": "PPF Contribution \u2013 July 2024"
+    },
+    {
+      "date": "2024-07-20T04:30:00+00:00",
+      "amount": 20000.0,
+      "description": "PPF Contribution \u2013 July 2024"
+    },
+    {
+      "date": "2024-06-12T04:30:00+00:00",
+      "amount": 30000.0,
+      "description": "ELSS Investment \u2013 June 2024"
+    },
+    {
+      "date": "2024-06-12T04:30:00+00:00",
+      "amount": 30000.0,
+      "description": "ELSS Investment \u2013 June 2024"
+    },
+    {
+      "date": "2024-06-12T04:30:00+00:00",
+      "amount": 30000.0,
+      "description": "ELSS Investment \u2013 June 2024"
+    },
+    {
+      "date": "2024-05-10T04:30:00+00:00",
+      "amount": 25000.0,
+      "description": "LIC Premium \u2013 May 2024"
+    },
+    {
+      "date": "2024-05-10T04:30:00+00:00",
+      "amount": 25000.0,
+      "description": "LIC Premium \u2013 May 2024"
+    },
+    {
+      "date": "2024-05-10T04:30:00+00:00",
+      "amount": 25000.0,
+      "description": "LIC Premium \u2013 May 2024"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Q: How can I check my account balance?
+A: You can use net banking, chatbot, or dial *99#.
+
+Q: My debit card is not working — what should I do?
+A: Check expiry, sufficient balance, and ATM network status.
+
+Q: What is the interest rate on savings accounts?
+A: Usually 3–4% annually (varies by bank).
+
+Q: What are the charges for UPI transactions?
+A: Currently nil for P2P; merchants may incur MDR.

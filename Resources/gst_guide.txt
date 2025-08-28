@@ -1,0 +1,14 @@
+GST Summary:
+- GSTR-1: Monthly/quarterly outward supplies (sales).
+- GSTR-3B: Summary return with tax payment.
+
+Input Tax Credit (ITC):
+- You can claim credit for GST paid on business purchases.
+- Must match invoices uploaded by suppliers (GSTR-2B).
+
+Due Dates:
+- GSTR-1: 11th of next month.
+- GSTR-3B: 20th of next month.
+
+Penalties:
+- Late fee ₹50/day (₹20 if nil return), interest 18% p.a.

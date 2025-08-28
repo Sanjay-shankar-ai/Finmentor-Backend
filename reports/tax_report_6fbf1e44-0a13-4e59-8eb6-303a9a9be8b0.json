@@ -1,0 +1,92 @@
+{
+  "user_id": "6fbf1e44-0a13-4e59-8eb6-303a9a9be8b0",
+  "financial_year": "2024-25",
+  "regime": "NEW_REGIME_ONLY",
+  "income_heads": {
+    "salary": [
+      {
+        "date": "2025-03-05T04:30:00+00:00",
+        "description": "Salary - March 2025",
+        "amount": 75000.0
+      },
+      {
+        "date": "2025-02-05T04:30:00+00:00",
+        "description": "Salary \u2013 February 2025",
+        "amount": 75000.0
+      },
+      {
+        "date": "2025-01-05T04:30:00+00:00",
+        "description": "Salary \u2013 January 2025",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-12-05T04:30:00+00:00",
+        "description": "Salary - December 2024",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-11-05T04:30:00+00:00",
+        "description": "Salary \u2013 November 2024",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-10-05T04:30:00+00:00",
+        "description": "Salary \u2013 October 2024",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-09-05T04:30:00+00:00",
+        "description": "Salary \u2013 September 2024",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-08-05T04:30:00+00:00",
+        "description": "Salary \u2013 August 2024",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-07-05T04:30:00+00:00",
+        "description": "Salary \u2013 July 2024",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-06-05T04:30:00+00:00",
+        "description": "Salary \u2013 June 2024",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-05-05T04:30:00+00:00",
+        "description": "Salary \u2013 May 2024",
+        "amount": 75000.0
+      },
+      {
+        "date": "2024-04-05T04:30:00+00:00",
+        "description": "Salary \u2013 April 2024",
+        "amount": 75000.0
+      }
+    ],
+    "house_property": [],
+    "business_profession": [],
+    "capital_gains": [],
+    "other_sources": []
+  },
+  "head_totals": {
+    "salary": 900000.0,
+    "house_property": 0.0,
+    "business_profession": 0.0,
+    "capital_gains": 0.0,
+    "other_sources": 0.0
+  },
+  "tax_calculation": {
+    "gross_income": 900000.0,
+    "standard_deduction": 75000,
+    "taxable_income": 825000.0,
+    "tax_before_cess": 37500.0,
+    "health_education_cess": 1500.0,
+    "total_tax_liability": 39000.0,
+    "effective_tax_rate": 4.333333333333334
+  },
+  "advance_tax": 0,
+  "tds_deducted": 200000.0,
+  "generated_on": "2025-07-15T02:55:21.135978"
+}
